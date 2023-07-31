@@ -7,7 +7,7 @@ from pathlib import Path
 from aiogram.types import ContentType, File, Message
 import os
 
-API_TOKEN = '6546656668:AAFjH_g2jwl09gVR3X1aHHAT1UiCm4z4zXU'
+API_TOKEN = 'token'
 
 
 # Initialize bot
